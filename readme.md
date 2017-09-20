@@ -1,9 +1,9 @@
 # color
 ### color name like red, green, blue
-### hexadecimal
-hexa = 6 (a~f)    
-decimal = 10  (0~9)
-hexadecimal = 16 (0~f)   
+### hexadecimal   
+hexa = 6 (a to f)    
+decimal = 10  (0 to 9)
+hexadecimal = 16 (0 to f)   
 hightest value `f` is white    
 lowest value is `0` is black   
 white hexadecimal value = `#ffffff`  
@@ -13,7 +13,7 @@ when first 3 letter is as last 3 letter you can omit last 3 digit. like `#fff`
 ### rgb() 
 rgb stands for red, green, blue   
 rgb() its a function. which require 3 parameter. red, green, blue   
-rgb a value is `0~255`   
+rgb a value is `0 to 255`   
 so hightest value `255` is white   
 so lowest value `0` is black  
 white rgb value = `rgb(255, 255, 255)`   
