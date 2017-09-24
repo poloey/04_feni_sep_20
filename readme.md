@@ -15,8 +15,9 @@
 ~~~
 
 
-### Inline css
+### external css
 ~~~html
+<link rel="stylesheet" href="style.css">
 <h1>Heading</h1>
 ~~~
 
