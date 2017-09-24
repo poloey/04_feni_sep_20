@@ -1,3 +1,32 @@
+# You can write style in 3 ways
+### Inline css
+~~~html
+<h1 style="color: green;">Heading</h1>
+~~~
+
+### internal css
+~~~html
+<h1>Heading</h1>
+<style>
+    h1 {
+        color: green;
+    }
+</style>
+~~~
+
+
+### Inline css
+~~~html
+<h1>Heading</h1>
+~~~
+
+~~~css
+h1 {
+    color: green;
+}
+~~~
+
+
 # color
 ### color name like red, green, blue
 ### hexadecimal   
