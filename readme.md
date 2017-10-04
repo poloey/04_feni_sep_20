@@ -1,5 +1,7 @@
-# You can write style in 3 ways
+# Class 04
 ### View [all class list](https://github.com/poloey/feni)
+
+# You can write style in 3 ways
 ### Inline css
 ~~~html
 <h1 style="color: green;">Heading</h1>
