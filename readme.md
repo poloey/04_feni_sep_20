@@ -1,5 +1,6 @@
 # Class 04
-### View [all class list](https://github.com/poloey/feni)
+### View [all class list](https://poloey.github.io/feni/)
+
 
 # You can write style in 3 ways
 ### Inline css
